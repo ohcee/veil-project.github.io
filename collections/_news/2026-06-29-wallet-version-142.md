@@ -24,6 +24,6 @@ clearmempool
 
 **If you had not synced** your old wallet fully you can simply replace the application files without any further commands, as normal.
 
-**Download Veil Core wallet v1.4.2.0 and read the full release notes [here](https://github.com/Veil-Project/veil/releases/tag/v1.4.1.0)**. Check our Veil support article for [how to update your Veil wallet](https://veil.freshdesk.com/support/solutions/articles/43000528762-how-to-update-upgrade-your-veil-wallet).
+**Download Veil Core wallet v1.4.2.0 and read the full release notes [here](https://github.com/Veil-Project/veil/releases/tag/v1.4.2.0)**. Check our Veil support article for [how to update your Veil wallet](https://veil.freshdesk.com/support/solutions/articles/43000528762-how-to-update-upgrade-your-veil-wallet).
 
 Still need assistance? Join the Veil community on [Discord](https://discord.veil-project.com)!
